@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.agameoftwohalves.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
+<widget id="com.misterbaecha.app" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0">
     
-    <name>test</name>
-    <description>test</description>
-    <author email="chris@" href="http://www.agameoftwohalves.com">AGOTH Webmaster</author>
+    <name>미스터배차</name>
+    <description>굴삭기 구인구직, 건설기계 구인구직, 온라인 배차사무실</description>
+    <author email="hello@misterbaecha.com" href="http://misterbaecha.com">AGOTH Webmaster</author>
 
     <preference name="phonegap-version" value="3.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
@@ -47,6 +47,6 @@
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
-    <content src="http://www.agameoftwohalves.com" />
+    <content src="http://misterbaecha.com" />
     <access origin="*" subdomains="true" />
 </widget>
